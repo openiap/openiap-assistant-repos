@@ -19,6 +19,11 @@
             "url": "https://github.com/skadefro/nodetest.git"
         },
         {
+            "name": "nodejs",
+            "description": "Node.js template for processing workitems",
+            "url": "https://github.com/skadefro/nodeworkitemagent.git"
+        },        
+        {
             "name": "java",
             "description": "Java example for most SDK commands",
             "url": "https://github.com/skadefro/javatest.git"
@@ -28,6 +33,11 @@
             "description": "Python example for most SDK commands",
             "url": "https://github.com/skadefro/pythontest.git"
         },
+        {
+            "name": "python",
+            "description": "Python template for processing workitems",
+            "url": "https://github.com/openiap/pythonworkitemagent.git"
+        },        
         {
             "name": "dotnet",
             "description": "C# example for most SDK commands",
@@ -46,7 +56,7 @@
         {
             "name": "c",
             "description": "C example for most SDK commands",
-            "url": "https://github.com/skadefro/rusttest.git"
+            "url": "https://github.com/skadefro/ctest.git"
         },
         {
             "name": "binary",
