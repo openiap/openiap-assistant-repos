@@ -8,7 +8,9 @@
         "php",
         "java",
         "c", 
-        "binary"
+        "binary",
+        "powershell",
+        "shell"
     ],
     "repositories": [
         {
@@ -75,6 +77,16 @@
             "name": "python",
             "description": "Workitem queue agent example",
             "url": "https://github.com/openiap/pythontest"
+        },
+        {
+            "name": "powershell",
+            "description": "Example agent, process a single workitem when linked to a workitem queue",
+            "url": "https://github.com/openiap/powershellagent.git"
+        },
+        {
+            "name": "shell",
+            "description": "Example agent, process a single workitem when linked to a workitem queue",
+            "url": "https://github.com/openiap/shellagent.git"
         }
     ]    
 }
