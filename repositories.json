@@ -1,0 +1,80 @@
+{
+    "languages": [
+        "nodejs",
+        "browser",
+        "python",
+        "dotnet",
+        "rust",
+        "php",
+        "java",
+        "c", 
+        "binary"
+    ],
+    "repositories": [
+        {
+            "name": "nodejs",
+            "description": "Node.js example for most SDK commands",
+            "url": "https://github.com/skadefro/nodetest.git"
+        },
+        {
+            "name": "java",
+            "description": "Java example for most SDK commands",
+            "url": "https://github.com/skadefro/javatest.git"
+        },
+        {
+            "name": "python",
+            "description": "Python example for most SDK commands",
+            "url": "https://github.com/skadefro/pythontest.git"
+        },
+        {
+            "name": "dotnet",
+            "description": "C# example for most SDK commands",
+            "url": "https://github.com/skadefro/dotnettest.git"
+        },
+        {
+            "name": "php",
+            "description": "PHP example for most SDK commands",
+            "url": "https://github.com/skadefro/phptest.git"
+        },
+        {
+            "name": "rust",
+            "description": "Rust example with a small CLI for calling some SDK commands",
+            "url": "https://github.com/skadefro/rusttest.git"
+        },
+        {
+            "name": "c",
+            "description": "C example for most SDK commands",
+            "url": "https://github.com/skadefro/rusttest.git"
+        },
+        {
+            "name": "binary",
+            "description": "Example project for calling a binary on an agent",
+            "url": "https://github.com/skadefro/rusttest.git"
+        },
+        {
+            "name": "browser",
+            "description": "Vue3 demo website showing most SDK commands",
+            "url": "https://github.com/openiap/vue3-web-template.git"
+        },
+        {
+            "name": "browser",
+            "description": "AngularJS demo website showing most SDK commands",
+            "url": "https://github.com/open-rpa/openflow-web-angularjs-template.git"
+        },
+        {
+            "name": "browser",
+            "description": "Angular11 demo website showing most SDK commands",
+            "url": "https://github.com/open-rpa/openflow-web-angular11-template.git"
+        },
+        {
+            "name": "browser",
+            "description": "Svelte 4 demo implementation of OpenCores frontend",
+            "url": "https://github.com/openiap/core-web-arch.git"
+        },
+        {
+            "name": "python",
+            "description": "Workitem queue agent example",
+            "url": "https://github.com/openiap/pythontest"
+        }
+    ]    
+}
