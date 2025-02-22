@@ -44,6 +44,11 @@
             "url": "https://github.com/skadefro/dotnettest.git"
         },
         {
+            "name": "dotnet",
+            "description": "C# template for processing workitems",
+            "url": "https://github.com/openiap/dotnetworkitemagent.git"
+        },        
+        {
             "name": "php",
             "description": "PHP example for most SDK commands",
             "url": "https://github.com/skadefro/phptest.git"
