@@ -15,14 +15,14 @@
     "repositories": [
         {
             "name": "nodejs",
-            "description": "Node.js example for most SDK commands",
-            "url": "https://github.com/skadefro/nodetest.git"
-        },
-        {
-            "name": "nodejs",
             "description": "Node.js template for processing workitems",
             "url": "https://github.com/openiap/nodeworkitemagent.git"
         },        
+        {
+            "name": "nodejs",
+            "description": "Node.js example for most SDK commands",
+            "url": "https://github.com/skadefro/nodetest.git"
+        },
         {
             "name": "java",
             "description": "Java example for most SDK commands",
@@ -30,24 +30,24 @@
         },
         {
             "name": "python",
-            "description": "Python example for most SDK commands",
-            "url": "https://github.com/skadefro/pythontest.git"
-        },
-        {
-            "name": "python",
             "description": "Python template for processing workitems",
             "url": "https://github.com/openiap/pythonworkitemagent.git"
         },        
         {
-            "name": "dotnet",
-            "description": "C# example for most SDK commands",
-            "url": "https://github.com/skadefro/dotnettest.git"
+            "name": "python",
+            "description": "Python example for most SDK commands",
+            "url": "https://github.com/skadefro/pythontest.git"
         },
         {
             "name": "dotnet",
             "description": "C# template for processing workitems",
             "url": "https://github.com/openiap/dotnetworkitemagent.git"
         },        
+        {
+            "name": "dotnet",
+            "description": "C# example for most SDK commands",
+            "url": "https://github.com/skadefro/dotnettest.git"
+        },
         {
             "name": "php",
             "description": "PHP example for most SDK commands",
@@ -87,11 +87,6 @@
             "name": "browser",
             "description": "Svelte 4 demo implementation of OpenCores frontend",
             "url": "https://github.com/openiap/core-web-arch.git"
-        },
-        {
-            "name": "python",
-            "description": "Workitem queue agent example",
-            "url": "https://github.com/openiap/pythontest"
         },
         {
             "name": "powershell",
