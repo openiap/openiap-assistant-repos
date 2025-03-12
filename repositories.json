@@ -64,6 +64,11 @@
             "url": "https://github.com/skadefro/ctest.git"
         },
         {
+            "name": "c",
+            "description": "C example using Conan for most SDK commands",
+            "url": "https://github.com/skadefro/cconantest.git"
+        },
+        {
             "name": "binary",
             "description": "Example project for calling a binary on an agent",
             "url": "https://github.com/skadefro/rusttest.git"
