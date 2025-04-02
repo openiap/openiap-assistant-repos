@@ -90,6 +90,11 @@
         },
         {
             "name": "browser",
+            "description": "Svelte 5 implementation of OpenCores frontend",
+            "url": "https://github.com/openiap/core-web.git"
+        },
+        {
+            "name": "browser",
             "description": "Svelte 4 demo implementation of OpenCores frontend",
             "url": "https://github.com/openiap/core-web-arch.git"
         },
