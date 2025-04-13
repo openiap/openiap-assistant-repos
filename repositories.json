@@ -25,9 +25,14 @@
         },
         {
             "name": "java",
+            "description": "Java  template for processing workitems",
+            "url": "https://github.com/openiap/javaworkitemagent.git"
+        },
+        {
+            "name": "java",
             "description": "Java example for most SDK commands",
             "url": "https://github.com/skadefro/javatest.git"
-        },
+        },        
         {
             "name": "python",
             "description": "Python template for processing workitems",
@@ -37,6 +42,11 @@
             "name": "python",
             "description": "Python example for most SDK commands",
             "url": "https://github.com/skadefro/pythontest.git"
+        },
+        {
+            "name": "python",
+            "description": "Python example using workitem queue with robotframework",
+            "url": "https://github.com/openiap/robotframeworkagent.git"
         },
         {
             "name": "dotnet",
