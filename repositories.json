@@ -115,6 +115,11 @@
         },
         {
             "name": "powershell",
+            "description": "powershell example for most SDK commands",
+            "url": "https://github.com/openiap/pwshtest.git"
+        },
+        {
+            "name": "powershell",
             "description": "Example agent, process a single workitem when linked to a workitem queue",
             "url": "https://github.com/openiap/powershellagent.git"
         },
