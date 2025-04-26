@@ -24,6 +24,11 @@
             "url": "https://github.com/skadefro/nodetest.git"
         },
         {
+            "name": "nodejs",
+            "description": "Node.js hello world example listening to a message queue",
+            "url": "https://github.com/openiap/nodehellofn.git"
+        },        
+        {
             "name": "java",
             "description": "Java  template for processing workitems",
             "url": "https://github.com/openiap/javaworkitemagent.git"
@@ -77,6 +82,11 @@
             "name": "c",
             "description": "C example for most SDK commands",
             "url": "https://github.com/skadefro/ctest.git"
+        },
+        {
+            "name": "c",
+            "description": "C hello world, messsage queue agent",
+            "url": "https://github.com/openiap/chellofn.git"
         },
         {
             "name": "c",
