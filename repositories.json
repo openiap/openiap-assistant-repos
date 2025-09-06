@@ -29,6 +29,11 @@
             "url": "https://github.com/openiap/nodehellofn.git"
         },        
         {
+            "name": "nodejs",
+            "description": "Node.js hello world serverless function example",
+            "url": "https://github.com/openiap/sfnodehello.git"
+        },        
+        {
             "name": "java",
             "description": "Java  template for processing workitems",
             "url": "https://github.com/openiap/javaworkitemagent.git"
