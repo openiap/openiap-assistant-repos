@@ -7,7 +7,7 @@
         "rust",
         "php",
         "java",
-        "c", 
+        "c",
         "binary",
         "powershell",
         "shell"
@@ -18,7 +18,7 @@
             "description": "Node.js template for processing workitems",
             "url": "https://github.com/openiap/nodeworkitemagent.git",
             "sf": true
-        },        
+        },
         {
             "name": "nodejs",
             "description": "Node.js example for most SDK commands",
@@ -30,13 +30,13 @@
             "description": "Node.js hello world example listening to a message queue",
             "url": "https://github.com/openiap/nodehellofn.git",
             "sf": false
-        },        
+        },
         {
             "name": "nodejs",
             "description": "Node.js hello world serverless function example",
             "url": "https://github.com/openiap/sfnodehello.git",
             "sf": true
-        },        
+        },
         {
             "name": "java",
             "description": "Java  template for processing workitems",
@@ -48,13 +48,19 @@
             "description": "Java example for most SDK commands",
             "url": "https://github.com/skadefro/javatest.git",
             "sf": false
-        },        
+        },
+        {
+            "name": "python",
+            "description": "Python hello world serverless function example",
+            "url": "https://github.com/openiap/sfpythonhello.git",
+            "sf": true
+        },
         {
             "name": "python",
             "description": "Python template for processing workitems",
             "url": "https://github.com/openiap/pythonworkitemagent.git",
-            "sf": false 
-        },        
+            "sf": false
+        },
         {
             "name": "python",
             "description": "Python example for most SDK commands",
@@ -72,7 +78,7 @@
             "description": "C# template for processing workitems",
             "url": "https://github.com/openiap/dotnetworkitemagent.git",
             "sf": false
-        },        
+        },
         {
             "name": "dotnet",
             "description": "C# example for most SDK commands",
@@ -169,5 +175,5 @@
             "url": "https://github.com/openiap/shellagent.git",
             "sf": false
         }
-    ]    
+    ]
 }
