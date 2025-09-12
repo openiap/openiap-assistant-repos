@@ -82,6 +82,12 @@
         {
             "name": "dotnet",
             "description": "C# example for most SDK commands",
+            "url": "https://github.com/openiap/sfdotnethello.git",
+            "sf": true
+        },
+        {
+            "name": "dotnet",
+            "description": "C# example for most SDK commands",
             "url": "https://github.com/skadefro/dotnettest.git",
             "sf": false
         },
