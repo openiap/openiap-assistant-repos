@@ -75,14 +75,14 @@
         },
         {
             "name": "dotnet",
-            "description": "C# template for processing workitems",
-            "url": "https://github.com/openiap/dotnetworkitemagent.git",
+            "description": "Dotnet hello world serverless function example",
+            "url": "https://github.com/openiap/sfdotnethello.git",
             "sf": true
         },
         {
             "name": "dotnet",
-            "description": "C# example for most SDK commands",
-            "url": "https://github.com/openiap/sfdotnethello.git",
+            "description": "C# template for processing workitems",
+            "url": "https://github.com/openiap/dotnetworkitemagent.git",
             "sf": true
         },
         {
