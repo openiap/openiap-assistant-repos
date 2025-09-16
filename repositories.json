@@ -59,7 +59,7 @@
             "name": "python",
             "description": "Python template for processing workitems",
             "url": "https://github.com/openiap/pythonworkitemagent.git",
-            "sf": true
+            "sf": false
         },
         {
             "name": "python",
@@ -83,7 +83,7 @@
             "name": "dotnet",
             "description": "C# template for processing workitems",
             "url": "https://github.com/openiap/dotnetworkitemagent.git",
-            "sf": true
+            "sf": false
         },
         {
             "name": "dotnet",
