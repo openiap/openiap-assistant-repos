@@ -15,6 +15,12 @@
     "repositories": [
         {
             "name": "nodejs",
+            "description": "Node.js hello world serverless function example",
+            "url": "https://github.com/openiap/sfnodehello.git",
+            "sf": true
+        },
+        {
+            "name": "nodejs",
             "description": "Node.js template for processing workitems",
             "url": "https://github.com/openiap/nodeworkitemagent.git",
             "sf": true
@@ -30,12 +36,6 @@
             "description": "Node.js hello world example listening to a message queue",
             "url": "https://github.com/openiap/nodehellofn.git",
             "sf": false
-        },
-        {
-            "name": "nodejs",
-            "description": "Node.js hello world serverless function example",
-            "url": "https://github.com/openiap/sfnodehello.git",
-            "sf": true
         },
         {
             "name": "java",
@@ -96,6 +96,12 @@
             "description": "Php hello world serverless function example",
             "url": "https://github.com/openiap/sfphphello.git",
             "sf": true
+        },
+        {
+            "name": "php",
+            "description": "Php template for processing workitems",
+            "url": "https://github.com/openiap/phpworkitemagent.git",
+            "sf": false
         },
         {
             "name": "php",
