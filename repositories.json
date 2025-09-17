@@ -59,7 +59,7 @@
             "name": "python",
             "description": "Python template for processing workitems",
             "url": "https://github.com/openiap/pythonworkitemagent.git",
-            "sf": false
+            "sf": true
         },
         {
             "name": "python",
